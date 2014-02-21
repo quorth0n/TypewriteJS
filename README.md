@@ -11,5 +11,5 @@ Typewrite text easily with this jQuery plugin
 
 Usage
 -----------
-To use TypewriteJS on your website, add this code between your '<head>' tags:
+To use TypewriteJS on your website, add this code between your `<head>` tags:
  
